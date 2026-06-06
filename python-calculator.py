@@ -36,6 +36,6 @@ while(True):
     elif(ch == 7):
         a = int(input("Enter 1st Number: "))
         b = int(input("Enter 2nd Number: "))
-        pass  
+        print(a//b)  
     elif(ch == 8):
         break      
