@@ -28,7 +28,7 @@ while(True):
     elif(ch == 5):
         a = int(input("Enter 1st Number: "))
         b = int(input("Enter the power for 1st No:  "))
-        pass
+        print("Output is: ",a**b)
     elif(ch == 6):
         a = int(input("Enter 1st Number: "))
         b = int(input("Enter 2nd Number: "))
