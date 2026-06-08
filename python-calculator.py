@@ -32,7 +32,7 @@ while(True):
     elif(ch == 6):
         a = int(input("Enter 1st Number: "))
         b = int(input("Enter 2nd Number: "))
-        pass
+        print("Output is: ",a%b)
     elif(ch == 7):
         a = int(input("Enter 1st Number: "))
         b = int(input("Enter 2nd Number: "))
