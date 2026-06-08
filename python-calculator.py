@@ -17,6 +17,7 @@ while(True):
     elif(ch == 2):
         a = int(input("Enter 1st Number: "))
         b = int(input("Enter 2nd Number: "))
+        print("Output is :" , a-b)
         pass
     elif(ch == 3):
         a = int(input("Enter 1st Number: "))
